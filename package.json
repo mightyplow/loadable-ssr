@@ -1,11 +1,8 @@
 {
   "name": "@mightyplow/loadable-ssr",
   "version": "1.0.0",
-  "description": "Helpers for enabling server side rendering with lazy components.",
+  "description": "Helpers for enabling server side rendering with @loadable/component.",
   "main": "./index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "lazy",
     "javascript",
@@ -14,6 +11,13 @@
     "ssr",
     "webpack"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://git.mightyplow.net/mightyplow/loadable-ssr"
+  },
+  "bugs": {
+    "url": "https://git.mightyplow.net/mightyplow/loadable-ssr/issues"
+  },
   "author": "mightyplow@gmail.com",
   "license": "Beerware"
 }
