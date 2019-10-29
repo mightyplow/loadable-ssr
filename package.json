@@ -1,0 +1,19 @@
+{
+  "name": "@mightyplow/loadable-ssr",
+  "version": "1.0.0",
+  "description": "Helpers for enabling server side rendering with lazy components.",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lazy",
+    "javascript",
+    "performance",
+    "server side rendering",
+    "ssr",
+    "webpack"
+  ],
+  "author": "mightyplow@gmail.com",
+  "license": "Beerware"
+}
